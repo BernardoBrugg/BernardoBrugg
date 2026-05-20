@@ -1,125 +1,99 @@
-      <h3 align="center">Marina Morais Portfolio</h3>
-      <p align="center">
-        <a href="https://marinamoraisphportifolio.vercel.app/">
-          <img src="https://img.shields.io/badge/Live%20Demo-EC4899?style=for-the-badge&logo=vercel&logoColor=white" alt="Marina Morais Portfolio demo" />
-        </a>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:7C3AED,100:06B6D4&text=Bernardo%20Br%C3%BCggemann&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&fontSize=44&desc=Software%20Engineer%20Intern%20%7C%20Production%20Engineering%20%40%20UFSC%20%7C%20AI%20%26%20Full-Stack&descAlign=50&descAlignY=58&descSize=16" alt="Bernardo Brüggemann banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&color=0:020617,45:2563EB,100:06B6D4&text=Bernardo%20Br%C3%BCggemann&fontColor=FFFFFF&fontSize=44&fontAlignY=35&desc=Software%20Engineer%20Intern%20%7C%20Full-Stack%20%7C%20AI%20Systems%20%7C%20Production%20Engineering%20%40%20UFSC&descColor=E0F2FE&descSize=15&descAlignY=55" alt="Bernardo Brüggemann" />
+
+<a href="mailto:bbbrugg@gmail.com">
+  <img src="https://img.shields.io/badge/Email-bbbrugg%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/bernardobruggemann">
+  <img src="https://img.shields.io/badge/LinkedIn-Bernardo%20Br%C3%BCggemann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://bebrugg.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-bebrugg.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/BernardoBrugg">
+  <img src="https://img.shields.io/badge/GitHub-BernardoBrugg-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:bbbrugg@gmail.com"><img src="https://img.shields.io/badge/Email-bbbrugg%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/bernardobruggemann"><img src="https://img.shields.io/badge/LinkedIn-Bernardo%20Br%C3%BCggemann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://bebrugg.vercel.app"><img src="https://img.shields.io/badge/Portfolio-bebrugg.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/BernardoBrugg"><img src="https://img.shields.io/badge/GitHub-BernardoBrugg-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br />
+<br />
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Engineering+modular+software+with+real-world+impact.;Building+full-stack+systems%2C+AI+tools%2C+and+interactive+web+experiences.;Clean+architecture.+Strong+documentation.+Useful+products." alt="Typing headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+clean%2C+modular%2C+documented+software.;Full-stack+apps%2C+AI+tools%2C+and+interactive+web+experiences.;Engineering+mindset.+Product+execution.+Strong+UI%2FUX." alt="Typing SVG" />
+
+</div>
+
+---
+
+<table>
+  <tr>
+    <td width="58%">
+      <h2>Profile</h2>
+      <p>
+        I am <b>Bernardo Brüggemann</b>, a Software Engineer Intern based in
+        <b>Florianópolis, Santa Catarina, Brazil</b>. I study <b>Production Engineering at UFSC</b>
+        and bring an <b>Electronics Technician background from IFSC</b> into software projects that connect
+        engineering thinking, product execution, and clean technical implementation.
       </p>
       <p>
-        Elegant portfolio website designed to present visual work with clarity and refined interaction.
+        My current work focuses on <b>full-stack architecture</b>, <b>AI-assisted systems</b>,
+        <b>computer vision</b>, <b>LLMs</b>, and <b>autonomous agents</b>, with an emphasis on modularity,
+        documentation, maintainability, and measurable product value.
       </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square" alt="Portfolio" />
-        <img src="https://img.shields.io/badge/UI%2FUX-0F172A?style=flat-square" alt="UI/UX" />
-      </p>
+    </td>
+    <td width="42%">
+      <h2>System</h2>
+      <table>
+        <tr><td><b>Role</b></td><td>Software Engineer Intern</td></tr>
+        <tr><td><b>Education</b></td><td>Production Engineering, UFSC</td></tr>
+        <tr><td><b>Background</b></td><td>Electronics Technician, IFSC</td></tr>
+        <tr><td><b>Base</b></td><td>Florianópolis, SC, Brazil</td></tr>
+        <tr><td><b>Language</b></td><td>English C2, EF SET</td></tr>
+      </table>
     </td>
   </tr>
 </table>
+## About Me
 
----
+<div align="center">
+I am a **Software Engineer Intern** from **Florianópolis, Brazil**, studying **Production Engineering at UFSC** and trained as an **Electronics Technician at IFSC**.
 
-## Operating Principles
+<a href="#stack"><img src="https://img.shields.io/badge/STACK-0B1020?style=for-the-badge&logo=hackthebox&logoColor=22D3EE" alt="Stack" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-0B1020?style=for-the-badge&logo=rocket&logoColor=A78BFA" alt="Projects" /></a>
+<a href="#operating-principles"><img src="https://img.shields.io/badge/PRINCIPLES-0B1020?style=for-the-badge&logo=readthedocs&logoColor=34D399" alt="Principles" /></a>
+<a href="#github-analytics"><img src="https://img.shields.io/badge/ANALYTICS-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Analytics" /></a>
+I build **full-stack systems**, **AI-assisted workflows**, and **interactive web applications** with a focus on clean architecture, strong documentation, usability, and real product value.
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Engineering</h3>
-      <ul>
-        <li>Modular design over fragile one-off implementations.</li>
-        <li>Clean code with explicit boundaries and readable structure.</li>
-        <li>Documentation that helps the next person move faster.</li>
-        <li>Performance-conscious routines and measurable outcomes.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>Product</h3>
-      <ul>
-        <li>Interfaces should feel useful before they feel decorative.</li>
-        <li>Visual polish should clarify state, priority, and action.</li>
-        <li>AI should reduce operational friction, not add mystery.</li>
-        <li>Every feature needs a reason to exist in the workflow.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary><b>system.config</b></summary>
-
-```json
-{
-  "engineer": "Bernardo Brüggemann",
-  "base": "Florianópolis, SC, Brazil",
-  "current_role": "Software Engineer Intern",
-  "education": "Production Engineering at Federal University of Santa Catarina",
-  "technical_background": "Electronics Technician at IFSC",
-  "focus_areas": [
-    "Full-Stack Architecture",
-    "Computer Vision",
-    "Large Language Models",
-    "Autonomous Agents",
-    "Interactive Web Experiences"
-  ],
-  "principles": [
-    "Modular Design",
-    "Clean Code",
-    "External Documentation",
-    "High-Performance Routine",
-    "Measurable Impact"
-  ]
-}
+</div>
+```ts
+const bernardo = {
+  role: "Software Engineer Intern",
+  location: "Florianópolis, SC, Brazil",
+  education: "Production Engineering @ UFSC",
+  background: "Electronics Technician @ IFSC",
+  english: "C2 - EF SET",
+  focus: ["Full-Stack", "AI Systems", "Computer Vision", "LLMs", "Autonomous Agents"],
+  values: ["Clean Code", "Modular Design", "Documentation", "Product Thinking"]
+};
 ```
 
-</details>
-
 ---
 
-## GitHub Analytics
+## Stack
+## Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BernardoBrugg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E5E7EB" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBrugg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" alt="Top languages" />
+### Core Languages
+### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark" alt="Languages" />
 
-<br />
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=BernardoBrugg&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub trophies" />
-
-<br />
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BernardoBrugg&bg_color=0D1117&color=E5E7EB&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="GitHub activity graph" />
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="mailto:bbbrugg@gmail.com">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/bernardobruggemann">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://bebrugg.vercel.app">
-        <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,45:7C3AED,100:0B1020" alt="Footer wave" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark" alt="Core languages" />
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vercel,figma&theme=dark" alt="Frontend" />
