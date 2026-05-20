@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="./assets/profile-banner.svg" alt="Bernardo Brüggemann banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,45:1D4ED8,100:06B6D4&text=Bernardo%20Bruggemann&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=Software%20Engineer%20Intern%20%7C%20Full-Stack%20Engineer%20%7C%20AI%20Systems%20Builder&descColor=E0F2FE&descSize=16&descAlignY=61" alt="Bernardo Bruggemann banner" />
 
 <h1>Bernardo Brüggemann</h1>
-<h3>Software Engineer Intern | Full-Stack | AI Systems | Production Engineering @ UFSC</h3>
+<h3>Software Engineer Intern | Full-Stack Engineer | AI Systems Builder | Production Engineering @ UFSC</h3>
 
 <a href="mailto:bbbrugg@gmail.com"><img src="https://img.shields.io/badge/Email-bbbrugg%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://linkedin.com/in/bernardobruggemann"><img src="https://img.shields.io/badge/LinkedIn-Bernardo%20Br%C3%BCggemann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -24,17 +24,21 @@ I am a **Software Engineer Intern** from **Florianópolis, Brazil**, studying **
 
 I build **full-stack systems**, **AI-assisted workflows**, and **interactive web applications** with a focus on clean architecture, strong documentation, usability, and real product value.
 
-```ts
-const bernardo = {
-  role: "Software Engineer Intern",
-  location: "Florianópolis, SC, Brazil",
-  education: "Production Engineering @ UFSC",
-  background: "Electronics Technician @ IFSC",
-  english: "C2 - EF SET",
-  focus: ["Full-Stack", "AI Systems", "Computer Vision", "LLMs", "Autonomous Agents"],
-  values: ["Clean Code", "Modular Design", "Documentation", "Product Thinking"]
-};
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/Role-Software%20Engineer%20Intern-06B6D4?style=for-the-badge&logo=codeforces&logoColor=white" alt="Software Engineer Intern" />
+<img src="https://img.shields.io/badge/Base-Florian%C3%B3polis%2C%20Brazil-22C55E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Florianopolis Brazil" />
+<img src="https://img.shields.io/badge/Education-Production%20Engineering%20%40%20UFSC-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Production Engineering at UFSC" />
+<img src="https://img.shields.io/badge/English-C2%20EF%20SET-F97316?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English C2 EF SET" />
+
+</div>
+
+| Current Focus | Strength |
+|---|---|
+| **Full-Stack Engineering** | Building complete products from interface to backend logic. |
+| **AI Systems** | Applying LLMs, agents, automation, and computer vision to real workflows. |
+| **Product Execution** | Turning technical work into usable, polished experiences. |
+| **Documentation & Architecture** | Keeping systems understandable, modular, and easier to evolve. |
 
 ---
 
@@ -84,69 +88,27 @@ const bernardo = {
 
 ---
 
-## Featured Work
+## Developer Dashboard
 
 <div align="center">
 
-<a href="https://queuetheory.vercel.app/">
-  <img src="https://img.shields.io/badge/Queue%20Theory-Interactive%20Simulation-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Queue Theory" />
-</a>
-
-Interactive queue theory application for simulations, calculations, and engineering analysis.
-
-<br /><br />
-
-<a href="https://institutotabuleiro.vercel.app/">
-  <img src="https://img.shields.io/badge/Instituto%20Tabuleiro-Education%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Instituto Tabuleiro" />
-</a>
-
-Official educational website focused on clarity, institutional presentation, and accessible content.
+<img src="https://img.shields.io/badge/Shipping-Full--Stack%20Products-06B6D4?style=for-the-badge&logo=rocket&logoColor=white" alt="Shipping full-stack products" />
+<img src="https://img.shields.io/badge/Building-AI%20Workflows-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Building AI workflows" />
+<img src="https://img.shields.io/badge/Focus-Clean%20Architecture-22C55E?style=for-the-badge&logo=codacy&logoColor=white" alt="Clean architecture" />
+<img src="https://img.shields.io/badge/UI%2FUX-Polished%20Interfaces-F97316?style=for-the-badge&logo=figma&logoColor=white" alt="Polished interfaces" />
 
 <br /><br />
 
-<a href="https://marinamoraisphportifolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Marina%20Morais-Portfolio%20Experience-EC4899?style=for-the-badge&logo=vercel&logoColor=white" alt="Marina Morais Portfolio" />
-</a>
-
-Visual portfolio experience with refined layout, presentation, and interaction.
-
-</div>
-
----
-
-## Engineering Style
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Architecture-Modular-0F172A?style=for-the-badge&logo=blueprint&logoColor=38BDF8" alt="Modular architecture" />
-<img src="https://img.shields.io/badge/Code-Clean%20%26%20Readable-0F172A?style=for-the-badge&logo=codacy&logoColor=22C55E" alt="Clean code" />
-<img src="https://img.shields.io/badge/Docs-External%20%26%20Useful-0F172A?style=for-the-badge&logo=readthedocs&logoColor=FACC15" alt="Documentation" />
-<img src="https://img.shields.io/badge/Product-Impact%20Driven-0F172A?style=for-the-badge&logo=rocket&logoColor=F97316" alt="Product impact" />
-
-</div>
-
-- I prefer **small modules with clear responsibilities**.
-- I write code with the next maintainer in mind.
-- I value documentation as part of the product, not as an afterthought.
-- I care about visual polish when it improves comprehension and workflow.
-- I like systems that are measurable, testable, and easy to extend.
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BernardoBrugg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=22C55E&text_color=E5E7EB" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoBrugg&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" alt="Top languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BernardoBrugg&theme=github_dark" alt="Repositories by language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BernardoBrugg&theme=github_dark" alt="Most committed languages" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=BernardoBrugg&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=E5E7EB" alt="GitHub streak" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoBrugg&theme=github_dark" alt="GitHub profile details" />
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BernardoBrugg&bg_color=0D1117&color=E5E7EB&line=38BDF8&point=22C55E&area=true&hide_border=true" alt="GitHub activity graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=BernardoBrugg&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=E5E7EB&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 
 </div>
 
