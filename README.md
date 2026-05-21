@@ -18,30 +18,6 @@
 
 ---
 
-## About Me
-
-I am a **Software Engineer Intern** from **Florianópolis, Brazil**, studying **Production Engineering at UFSC** and trained as an **Electronics Technician at IFSC**.
-
-I build **full-stack systems**, **AI-assisted workflows**, and **interactive web applications** with a focus on clean architecture, strong documentation, usability, and real product value.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Role-Software%20Engineer%20Intern-06B6D4?style=for-the-badge&logo=codeforces&logoColor=white" alt="Software Engineer Intern" />
-<img src="https://img.shields.io/badge/Base-Florian%C3%B3polis%2C%20Brazil-22C55E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Florianopolis Brazil" />
-<img src="https://img.shields.io/badge/Education-Production%20Engineering%20%40%20UFSC-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Production Engineering at UFSC" />
-<img src="https://img.shields.io/badge/English-C2%20EF%20SET-F97316?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English C2 EF SET" />
-
-</div>
-
-| Current Focus | Strength |
-|---|---|
-| **Full-Stack Engineering** | Building complete products from interface to backend logic. |
-| **AI Systems** | Applying LLMs, agents, automation, and computer vision to real workflows. |
-| **Product Execution** | Turning technical work into usable, polished experiences. |
-| **Documentation & Architecture** | Keeping systems understandable, modular, and easier to evolve. |
-
----
-
 ## Tech Stack
 
 <div align="center">
@@ -74,6 +50,30 @@ I build **full-stack systems**, **AI-assisted workflows**, and **interactive web
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 
 </div>
+
+---
+
+## About Me
+
+I am a **Software Engineer Intern** from **Florianópolis, Brazil**, studying **Production Engineering at UFSC** and trained as an **Electronics Technician at IFSC**.
+
+I build **full-stack systems**, **AI-assisted workflows**, and **interactive web applications** with a focus on clean architecture, strong documentation, usability, and real product value.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Role-Software%20Engineer%20Intern-06B6D4?style=for-the-badge&logo=codeforces&logoColor=white" alt="Software Engineer Intern" />
+<img src="https://img.shields.io/badge/Base-Florian%C3%B3polis%2C%20Brazil-22C55E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Florianopolis Brazil" />
+<img src="https://img.shields.io/badge/Education-Production%20Engineering%20%40%20UFSC-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Production Engineering at UFSC" />
+<img src="https://img.shields.io/badge/English-C2%20EF%20SET-F97316?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English C2 EF SET" />
+
+</div>
+
+| Current Focus | Strength |
+|---|---|
+| **Full-Stack Engineering** | Building complete products from interface to backend logic. |
+| **AI Systems** | Applying LLMs, agents, automation, and computer vision to real workflows. |
+| **Product Execution** | Turning technical work into usable, polished experiences. |
+| **Documentation & Architecture** | Keeping systems understandable, modular, and easier to evolve. |
 
 ---
 
