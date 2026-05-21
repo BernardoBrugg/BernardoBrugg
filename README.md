@@ -77,17 +77,6 @@ I build **full-stack systems**, **AI-assisted workflows**, and **interactive web
 
 ---
 
-## What I Build
-
-| Area | What I Do | Developer Signal |
-|---|---|---|
-| **Full-Stack Apps** | Interfaces, APIs, data flows, deployment | I can ship complete products, not only isolated features. |
-| **AI Systems** | LLM workflows, agents, automation, applied AI | I connect AI capabilities to practical software problems. |
-| **Engineering Tools** | Simulations, dashboards, documentation-first systems | I care about reliability, clarity, and maintainability. |
-| **UI/UX Engineering** | Clean interfaces, responsive layouts, interaction polish | I build software that is usable, not just functional. |
-
----
-
 ## Developer Dashboard
 
 <div align="center">
