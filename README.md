@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,45:1D4ED8,100:06B6D4&text=Bernardo%20Bruggemann&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=Software%20Engineer%20Intern%20%7C%20Full-Stack%20Engineer%20%7C%20AI%20Systems%20Builder&descColor=E0F2FE&descSize=16&descAlignY=61" alt="Bernardo Bruggemann banner" />
 
 <h1>Bernardo Brüggemann</h1>
-<h3>Software Engineer Intern | Full-Stack Engineer | AI Systems Builder | Production Engineering @ UFSC</h3>
+<h3>Software Engineer Intern | Full-Stack | AI Systems Builder | Production Engineering @ UFSC</h3>
 
 <a href="mailto:bbbrugg@gmail.com"><img src="https://img.shields.io/badge/Email-bbbrugg%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://linkedin.com/in/bernardobruggemann"><img src="https://img.shields.io/badge/LinkedIn-Bernardo%20Br%C3%BCggemann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
