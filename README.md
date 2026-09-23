@@ -96,7 +96,7 @@ I build **full-stack systems**, **AI-assisted workflows**, and **interactive web
 
 <br /><br />
 
-<img width="98%" src="./assets/combined-contributions.svg" alt="Combined GitHub and GitLab contributions" />
+<img src="https://streak-stats.demolab.com?user=BernardoBrugg&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=E5E7EB&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 
 </div>
 
